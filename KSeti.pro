@@ -1,0 +1,5 @@
+TEMPLATE = subdirs
+
+CONFIG=ordered
+
+SUBDIRS = SETI_User KURSACH_SETI
